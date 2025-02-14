@@ -1,9 +1,51 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.13">
   <diagram name="第 1 页" id="6l_URpEwVlCwuOEgZBjU">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lMCUrQdVNKHxVl971gE6-1" value="CPU寄存器&lt;div&gt;L0 Cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="354" y="110" width="186" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-2" value="高速缓存&lt;div&gt;L1 Cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-3" value="高速缓存&lt;div&gt;L2 Cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="300" y="320" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-4" value="高速缓存&lt;div&gt;L3 Cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="270" y="430" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-5" value="主存 Main Memory （常说的内存）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="220" y="540" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="20" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-7" value="CPU内部" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="195" y="238" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="690" y="250" width="20" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-9" value="多级高速缓存" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="348" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-10" value="快&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;慢" style="triangle;whiteSpace=wrap;html=1;direction=south;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="80" y="180" width="50" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="640" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-12" value="访问速度" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-13" value="小&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;大" style="triangle;whiteSpace=wrap;html=1;direction=north;verticalAlign=bottom;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="840" y="180" width="50" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="lMCUrQdVNKHxVl971gE6-17" value="存储容量" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="817" y="150" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
