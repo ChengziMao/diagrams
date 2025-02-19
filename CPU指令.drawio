@@ -1,9 +1,59 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="ErxbG8ddoWLvhDNnkguD">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-1" value="应用程序-比如商品微服务" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="339" y="299.5" as="sourcePoint" />
+            <mxPoint x="439" y="299.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-5" value="编译-解释" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="h4mJfIdxr8IHYEuY28q4-2">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-6" value="CPU指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="200" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-7" value="CPU指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="240" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-8" value="CPU指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="280" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-9" value="CPU指令：删除磁盘" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="465" y="320" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-10" value="CPU指令：电脑操作" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="465" y="360" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="435" y="220" width="20" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="h4mJfIdxr8IHYEuY28q4-12" target="h4mJfIdxr8IHYEuY28q4-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-12" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="815" y="210" width="20" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-13" value="CPU" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="905" y="255" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-15" value="存储" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="210" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-16" value="进程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="278.5" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="h4mJfIdxr8IHYEuY28q4-17" value="设备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1025" y="350.5" width="110" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
