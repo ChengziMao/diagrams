@@ -1,9 +1,89 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.14">
   <diagram name="第 1 页" id="9CYoOpQ0ppQ2X7qqPsA3">
-    <mxGraphModel>
+    <mxGraphModel dx="1105" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-1" value="仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="500" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-2" value="库区 库位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-4" value="库存" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="941" y="260" width="300" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.001;entryY=0.829;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="p-I7K-LxBpSwCSZXiu08-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="875" y="680" as="sourcePoint" />
+            <mxPoint x="1066" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-5" value="物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="620" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-6" value="物资类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-7" value="规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-8" value="入库订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="720" width="290" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="p-I7K-LxBpSwCSZXiu08-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="800" as="sourcePoint" />
+            <mxPoint x="640" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-12" value="入库" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="p-I7K-LxBpSwCSZXiu08-11">
+          <mxGeometry x="0.192" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-13" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="660" y="620" width="20" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-14" value="物资" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="780" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-15" value="物资类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="875" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-16" value="规则" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="715" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-17" value="仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1192" y="765" width="300" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-18" value="库区 库位" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1192" y="855" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-19" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p-I7K-LxBpSwCSZXiu08-6" target="p-I7K-LxBpSwCSZXiu08-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="990" y="690" as="sourcePoint" />
+            <mxPoint x="1040" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="640" as="sourcePoint" />
+            <mxPoint x="940" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-24" value="所属订单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="941" y="260" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-25" value="物资类型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="941" y="300" width="99" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-26" value="所属仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="p-I7K-LxBpSwCSZXiu08-27" value="所属库位" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="940" y="370" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
