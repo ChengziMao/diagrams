@@ -1,9 +1,97 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="第 1 页" id="DhymVzxwUlFcOzzT3BKO">
-    <mxGraphModel>
+    <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-1" value="4KB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="100" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-2" value="4KB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="140" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-3" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="180" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-4" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="220" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-5" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="260" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-6" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="300" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-7" value="4KB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="340" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-8" value="4KB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="414" y="380" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2I0hhZhMUn-GTb4Uri6a-9" target="2I0hhZhMUn-GTb4Uri6a-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-9" value="4KB 页表项" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="100" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-10" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="140" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-11" value="4KB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="180" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2I0hhZhMUn-GTb4Uri6a-12" target="2I0hhZhMUn-GTb4Uri6a-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="320" />
+              <mxPoint x="350" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-12" value="4KB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="300" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-13" value="......" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="340" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2I0hhZhMUn-GTb4Uri6a-14" target="2I0hhZhMUn-GTb4Uri6a-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="400" />
+              <mxPoint x="280" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-14" value="4KB" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="380" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="310" width="20" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="140" width="20" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-17" value="共1014个页表 所以有1024 * 1024个页表项&lt;div&gt;每一个页表项是32bit，占据4Byte&lt;/div&gt;&lt;div&gt;那需要1024 * 1024 * 4Byte = 4MB存储自身&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="245" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-18" value="页表" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="30" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-19" value="物理内存" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="490" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-20" value="更多..." style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="55" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-21" value="1024个页表项&lt;div&gt;自身存储占4KB&lt;/div&gt;&lt;div&gt;指向物理内存4MB&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="315" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="710" y="120" width="20" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="2I0hhZhMUn-GTb4Uri6a-26" value="物理内存4GB，每个物理页4KB&lt;div&gt;共1024*1024个物理页&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="750" y="240" width="290" height="137.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
