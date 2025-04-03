@@ -4,47 +4,85 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-1" value="用户程序" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-1" value="用户程序" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="105" y="80" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="E1H8eOpAXRikZTj3PFFv-1">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" target="E1H8eOpAXRikZTj3PFFv-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="640" as="sourcePoint" />
             <mxPoint x="200" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-3" value="用户程序" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-3" value="用户程序" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="105" y="640" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-4" value="CPU" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-4" value="CPU" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="330" y="80" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="E1H8eOpAXRikZTj3PFFv-4">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" target="E1H8eOpAXRikZTj3PFFv-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="385" y="640" as="sourcePoint" />
             <mxPoint x="425" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-6" value="CPU" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-6" value="CPU" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="330" y="640" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-7" value="磁盘" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-7" value="磁盘" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="550" y="80" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="E1H8eOpAXRikZTj3PFFv-7">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" target="E1H8eOpAXRikZTj3PFFv-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="605" y="640" as="sourcePoint" />
             <mxPoint x="645" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-9" value="磁盘" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-9" value="磁盘" style="html=1;whiteSpace=wrap;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="550" y="640" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="E1H8eOpAXRikZTj3PFFv-10" value="read（）读取数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-10" value="read（）读取数据" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="160" y="210" as="sourcePoint" />
             <mxPoint x="380" y="210" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-11" value="用户态切换到内核态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-12" value="发起IO请求" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="600" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-13" value="从磁盘读取数据时序图" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="104" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-14" value="把数据存储到&lt;div&gt;disk Cache&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="620" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-15" value="发出中断信号" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint x="600" y="340" as="sourcePoint" />
+            <mxPoint x="400" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-16" value="数据从disk Cache&lt;div&gt;拷贝到内核缓冲区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-17" value="数据从内核缓冲区&lt;div&gt;拷贝到用户缓冲区&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="410" y="450" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-18" value="调用结束返回数据" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry x="-0.1" relative="1" as="geometry">
+            <mxPoint x="374" y="540" as="sourcePoint" />
+            <mxPoint x="174" y="540" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E1H8eOpAXRikZTj3PFFv-19" value="内核态切换到用户态" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="190" y="560" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
