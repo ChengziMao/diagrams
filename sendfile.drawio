@@ -57,8 +57,8 @@
         </mxCell>
         <mxCell id="ObmUWvNZimiOGbfA-z7O-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.237;entryY=-0.021;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#f50505, #ededed);fontSize=14;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="624.5" y="466" as="sourcePoint" />
-            <mxPoint x="624.5" y="350" as="targetPoint" />
+            <mxPoint x="594.5" y="466" as="sourcePoint" />
+            <mxPoint x="594.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ObmUWvNZimiOGbfA-z7O-19" value="2-CPU状态切换" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=14;" connectable="0" vertex="1" parent="ObmUWvNZimiOGbfA-z7O-18">
