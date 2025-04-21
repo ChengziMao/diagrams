@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.13">
   <diagram name="第 1 页" id="JB4jx0_w0DLz06tbZlt5">
-    <mxGraphModel>
+    <mxGraphModel dx="1044" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="d_Lj6nDw2SnpwK6CDCpb-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d_Lj6nDw2SnpwK6CDCpb-1" target="d_Lj6nDw2SnpwK6CDCpb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Lj6nDw2SnpwK6CDCpb-1" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;y&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;业务架构&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="410" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Lj6nDw2SnpwK6CDCpb-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d_Lj6nDw2SnpwK6CDCpb-2" target="d_Lj6nDw2SnpwK6CDCpb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Lj6nDw2SnpwK6CDCpb-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="d_Lj6nDw2SnpwK6CDCpb-2" target="d_Lj6nDw2SnpwK6CDCpb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Lj6nDw2SnpwK6CDCpb-2" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;y&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;应用架构&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Lj6nDw2SnpwK6CDCpb-4" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;y&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;数据架构&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Lj6nDw2SnpwK6CDCpb-6" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;j&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;技术架构&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Lj6nDw2SnpwK6CDCpb-8" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;s&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;使用方法论对业务进程划分，在线教育网站：视频，用户，商品订单，进行划分，不需要考虑什么技术开发，并发多大&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="520" y="20" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="d_Lj6nDw2SnpwK6CDCpb-9" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;d&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;对整个系统实现的总体上的架构进行指出系统的层次，各个层次的应用服务&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="140" y="180" width="230" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
