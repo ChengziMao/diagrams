@@ -1,9 +1,66 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="MdsVW-EM-kUj0KfUG9k6">
-    <mxGraphModel>
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cwh_cloud_web_hosting;" vertex="1" parent="1">
+          <mxGeometry x="510" y="170" width="49.8" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-2" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.cwh_cloud_web_hosting;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="49.8" height="45.6" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-3" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;客户端&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="204.9" y="238" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-4" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;服务端&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="238" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-5" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;TCP三次握手&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="215.6" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="290" width="40" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="520" y="290" width="40" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1.075;exitY=0.094;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#fb0404, #ededed);" edge="1" parent="1" source="7YNO6ho69jQfDrqxiB5P-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="330" as="sourcePoint" />
+            <mxPoint x="400" y="324" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-9" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;SYN=1&amp;nbsp; seq= 50&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;网络拥塞&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="264.9" y="280" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="7YNO6ho69jQfDrqxiB5P-6" target="7YNO6ho69jQfDrqxiB5P-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="410" as="sourcePoint" />
+            <mxPoint x="330" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-11" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;SYN=1 ，seq=100&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="320" y="348" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.05;entryY=0.478;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.472;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="7YNO6ho69jQfDrqxiB5P-7" target="7YNO6ho69jQfDrqxiB5P-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="470" as="sourcePoint" />
+            <mxPoint x="490" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-13" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;SYN=1，ACK=1&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;ack=101，seq=y&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="325" y="420" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.075;entryY=0.664;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.661;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#f23607, #ededed);" edge="1" parent="1" source="7YNO6ho69jQfDrqxiB5P-7" target="7YNO6ho69jQfDrqxiB5P-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="570" as="sourcePoint" />
+            <mxPoint x="380" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7YNO6ho69jQfDrqxiB5P-15" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;SYN=1，ACK=1&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;ack=51,seq=z&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="490" width="110" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
