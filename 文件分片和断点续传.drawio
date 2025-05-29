@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5FJGtrkY94dtYmnwaKN-22" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;上传失败&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="975" y="338" width="90" height="30" as="geometry" />
+          <mxGeometry x="990" y="338" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W5FJGtrkY94dtYmnwaKN-23" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;f&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;分片5：1.8MB&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1060" y="410" width="120" height="60" as="geometry" />
@@ -95,7 +95,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W5FJGtrkY94dtYmnwaKN-25" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;上传失败&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1105" y="338" width="90" height="30" as="geometry" />
+          <mxGeometry x="1130" y="338" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="W5FJGtrkY94dtYmnwaKN-26" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;Text&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;拆分&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="370" y="388" width="60" height="30" as="geometry" />
