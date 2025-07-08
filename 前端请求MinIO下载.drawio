@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="tCIHOVMgFbCa0uH0UbfA">
-    <mxGraphModel>
+    <mxGraphModel dx="1213" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fYllpzPB8csuoP7dUu37-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="70" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="fYllpzPB8csuoP7dUu37-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="410" as="sourcePoint" />
+            <mxPoint x="410" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYllpzPB8csuoP7dUu37-3" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;q&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;前端&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="430" y="370" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="fYllpzPB8csuoP7dUu37-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="410" as="sourcePoint" />
+            <mxPoint x="730" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYllpzPB8csuoP7dUu37-5" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;h&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;后端&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="760" y="370" width="150" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="fYllpzPB8csuoP7dUu37-6" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;s&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;数据库&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="335" width="120" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fYllpzPB8csuoP7dUu37-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="920" y="410" as="sourcePoint" />
+            <mxPoint x="1050" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fYllpzPB8csuoP7dUu37-8" value="&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-wrapper&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-box&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; title=&quot;M&quot; class=&quot;notranslate fyzs-translate-target fyzs-translate-target-text&quot;&gt;MinIO存储&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="130" width="230" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="fYllpzPB8csuoP7dUu37-9" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=16;fillColor=#e3c800;strokeColor=#B09500;" edge="1" parent="1" target="fYllpzPB8csuoP7dUu37-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="350" as="sourcePoint" />
+            <mxPoint x="540" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
