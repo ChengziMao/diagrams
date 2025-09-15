@@ -4,6 +4,51 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="130" y="220" width="670" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-2" value="OutboundHandler" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-3" value="OutboundHandler" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="640" y="200" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="j4jlkH6V9VT-v29AjZHm-4" target="j4jlkH6V9VT-v29AjZHm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-4" value="InboundHandler" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="j4jlkH6V9VT-v29AjZHm-6" target="j4jlkH6V9VT-v29AjZHm-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-6" value="InboundHandler" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="360" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-7" value="InboundHandler" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="590" y="370" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" target="j4jlkH6V9VT-v29AjZHm-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="430" as="sourcePoint" />
+            <mxPoint x="100" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=14;" edge="1" parent="1" source="j4jlkH6V9VT-v29AjZHm-3" target="j4jlkH6V9VT-v29AjZHm-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="310" as="sourcePoint" />
+            <mxPoint x="630" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="259.5" as="sourcePoint" />
+            <mxPoint x="60" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j4jlkH6V9VT-v29AjZHm-14" value="ChannelPipeline" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
