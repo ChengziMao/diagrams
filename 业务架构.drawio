@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
+  <diagram name="第 1 页" id="GzXaPbWk6d772tPdQlcm">
+    <mxGraphModel dx="1426" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WnPvLwIZhcBribOPqL1--1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="610" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--2" value="访问层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="138" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--3" value="手机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="133" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--4" value="电脑" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="330" y="133" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--5" value="开放接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="490" y="133" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--6" value="流量清洗防护" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="240" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--7" value="网关" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--8" value="网关" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="25" y="255" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--9" value="Springboot 业务服务" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="610" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--10" value="文件服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="400" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--11" value="账号服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="400" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--12" value="分享服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="470" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--13" value="其他服务" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="470" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--14" value="业务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--15" value="Python AI模型Web服务" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="120" y="580" width="610" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="530" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--17" value="接口协议（类OpenAI协议）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="160" y="800" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--18" value="OpenAI" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="165" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--19" value="DeepSeek" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="300" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--20" value="通义千问" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="440" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--21" value="私有化模型" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="570" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--22" value="模型服务层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="20" y="660" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--23" value="Ai文档助手" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="640" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--24" value="智能知识库" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="640" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--25" value="智能客服" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="190" y="690" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--26" value="视频总结" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="190" y="740" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--27" value="AI仿写助手" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="460" y="690" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WnPvLwIZhcBribOPqL1--28" value="AI作图" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="1">
+          <mxGeometry x="460" y="740" width="170" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
